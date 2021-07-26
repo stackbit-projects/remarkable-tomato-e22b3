@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      We are the eCommerce Seller Based in the USA and Japan, and Focusing on
-      Digital, Identity, and Print Design.
+    title: We are the eCommerce Seller Based in the USA and Japan.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
